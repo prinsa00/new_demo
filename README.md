@@ -1,3 +1,4 @@
 # new_demo
-first repository
-hello 
+My first repository.
+<br>
+Hello.
